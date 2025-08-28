@@ -50,12 +50,12 @@ section#login > div#imagem {
     
 }
 
-section#login h1 {
+div#formulario > h1 {
     text-align: center;
 }
 
-section#login > div > p {
-    text-align: center;
+div#formulario > p {
+    font-size: 0.7;
 }
 
 section#login > div#formulario {
